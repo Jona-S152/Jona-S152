@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate backend developer from Ecuador in love with .NET. Since 2022 I have been working at university projects, being part of the backend team. I'm excited to help create unique and cool projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jona-s152" alt="jona-s152" /></a> </p>
 
