@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jona-s152" alt="jona-s152" /></a> </p>
 
-- 🔭 I’m currently working on **a Twitch API project.**
+- 🔭 I’m currently working on **Projects.**
 
 - 🌱 I’m currently learning **ASP.NET, Windows Forms and Unity,**
 
